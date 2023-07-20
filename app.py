@@ -24,7 +24,7 @@ app = Flask(__name__)
 MODEL_PATH = 'vgg16.h5'
 
 # Load your trained model
-model = load_model(MODEL_PATH)
+model = load_model(MODEL_PATH) # Here a VGG16 model.
 #model._make_predict_function()          # Necessary
 
 
