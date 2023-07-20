@@ -1,1 +1,1 @@
-# Image-classification
+# Image-classification using Transfer Learning.
